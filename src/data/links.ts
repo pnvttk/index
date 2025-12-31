@@ -21,6 +21,12 @@ export const linkData: Category[] = [
 				description: "A tool to generate complex yt-dlp command-line arguments.",
 				tags: ["tool", "cli", "productivity"]
 			},
+			{
+				title: "String Operations",
+				url: "https://pnvttk.github.io/string-ops/",
+				description: "A tool to perform string operations.",
+				tags: ["tool", "cli", "productivity", "string"]
+			}
 		]
 	},
 ];
