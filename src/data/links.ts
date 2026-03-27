@@ -13,7 +13,7 @@ export interface Category {
 
 export const linkData: Category[] = [
 	{
-		title: "Development Tools",
+		title: "Tools",
 		links: [
 			{
 				title: "YT-DLP Command Generator",
@@ -25,7 +25,13 @@ export const linkData: Category[] = [
 				title: "String Operations",
 				url: "https://pnvttk.github.io/string-ops/",
 				description: "A tool to perform string operations.",
-				tags: ["tool", "cli", "productivity", "string"]
+				tags: ["tool", "productivity", "string"]
+			},
+			{
+				title: "TPM Scripts",
+				url: "https://pnvttk.github.io/tpm-script/",
+				description: "A scripts directory listing.",
+				tags: []
 			}
 		]
 	},
