@@ -22,6 +22,12 @@ export const linkData: Category[] = [
 				tags: ["tool", "cli", "productivity"]
 			},
 			{
+				title: "FFmpeg Command Generator",
+				url: "https://pnvttk.github.io/ffmpeg-cg/",
+				description: "A tool to generate ffmpeg command-line arguments.",
+				tags: ["tool", "cli", "productivity"]
+			},
+			{
 				title: "String Operations",
 				url: "https://pnvttk.github.io/string-ops/",
 				description: "A tool to perform string operations.",
